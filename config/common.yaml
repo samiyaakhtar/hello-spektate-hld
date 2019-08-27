@@ -1,0 +1,6 @@
+subcomponents:
+  hello-spektate:
+    config:
+      image:
+        repository: hellorings.azurecr.io
+        tag: hello-spektate-master-5577

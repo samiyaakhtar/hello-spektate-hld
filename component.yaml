@@ -1,0 +1,8 @@
+name: hello-spektate
+subcomponents:
+- name: hello-spektate
+  type: component
+  source: https://github.com/samiyaakhtar/hello-spektate
+  method: git
+  branch: master
+  path: ring
