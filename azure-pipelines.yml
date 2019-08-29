@@ -65,6 +65,7 @@ steps:
     COMMIT_MESSAGE: $(Build.SourceVersionMessage)
     REPO: $(MANIFEST_REPO)
     BRANCH_NAME: $(Build.SourceBranchName)
+    HLD_PATH: https://github.com/samiyaakhtar/hello-bedrock-cluster
     
 - script: |
     cd "$HOME"
