@@ -3,4 +3,4 @@ subcomponents:
     config:
       image:
         repository: hellorings.azurecr.io
-        tag: hello-spektate-master-19830
+        tag: hello-spektate-master-19852
